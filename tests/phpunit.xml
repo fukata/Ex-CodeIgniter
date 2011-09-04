@@ -3,7 +3,7 @@
 <phpunit 
     colors="true" 
     stopOnFailure="false" 
-    bootstrap="../apps/application/third_party/CIUnit/bootstrap_phpunit.php">
+    bootstrap="../application/third_party/CIUnit/bootstrap_phpunit.php">
     <php>
         <const name="CIUnit_Version" value="0.17"/>
         <const name="ENVIRONMENT" value="development"/>
